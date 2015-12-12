@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444625882 source:c:\users\jphan\desktop\lab assignments\bit_field_insert\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	"library.h"
+
+1445542156 c:\users\jphan\desktop\lab assignments\\library.h
+
+1447349689 source:c:\users\jphan\desktop\lab assignments\bit_field_insert\bitfieldinsert.s
+

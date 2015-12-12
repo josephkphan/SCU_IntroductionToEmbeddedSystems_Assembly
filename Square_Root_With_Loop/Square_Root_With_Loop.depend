@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444626016 source:c:\users\jphan\desktop\lab assignments\square_root_with_loop\main.c
+	<stdio.h>
+	<stdint.h>
+	<math.h>
+	"library.h"
+
+1445542156 c:\users\jphan\desktop\lab assignments\\library.h
+
+1446708404 source:c:\users\jphan\desktop\lab assignments\square_root_with_loop\sqrtinasm.s
+

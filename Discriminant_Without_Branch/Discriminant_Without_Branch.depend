@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444629536 source:c:\users\jphan\desktop\lab assignments\discriminant_without_branch\main.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+
+1445545756 c:\users\jphan\desktop\lab assignments\\library.h
+
+1446101745 source:c:\users\jphan\desktop\lab assignments\discriminant_without_branch\discrinasm.s
+

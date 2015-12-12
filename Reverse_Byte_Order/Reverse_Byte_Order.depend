@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444665002 source:c:\users\jphan\desktop\lab assignments\reverse_byte_order\main.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+
+1445542156 c:\users\jphan\desktop\lab assignments\\library.h
+
+1448414595 source:c:\users\jphan\desktop\lab assignments\reverse_byte_order\reversebyteorder.s
+

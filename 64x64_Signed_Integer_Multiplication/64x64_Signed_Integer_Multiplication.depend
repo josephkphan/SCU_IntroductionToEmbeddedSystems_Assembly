@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444663300 source:c:\users\jphan\desktop\lab assignments\64x64_signed_integer_multiplication\main.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+
+1445542156 c:\users\jphan\desktop\lab assignments\\library.h
+
+1447644818 source:c:\users\jphan\desktop\lab assignments\64x64_signed_integer_multiplication\smul64x64inasm.s
+
